@@ -5,10 +5,15 @@
     "lastModifyDate": "2019-05-09",
     "tags": "213"
   }, {
-    "title": "",
+    "title": "Node.js module.exports 與 exports 之間的差異",
     "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js module.exports 與 exports 之間的差異/Node.js module.exports 與 exports 之間的差異.md",
     "lastModifyDate": "2018-02-27",
     "tags": ["Node.js", "JavaScript"]
-  }
-]
+  }],
+  "JavaScript": [{
+    "title": "JavaScript 函式多型實作",
+    "link": "https://bingfenghung.github.io/DevArticles/JavaScript/JavaScript 函式多型實作/JavaScript 函式多型實作.md",
+    "lastModifyDate": "2017-11-30",
+    "tags": ["JavaScript"]
+  }]
 }

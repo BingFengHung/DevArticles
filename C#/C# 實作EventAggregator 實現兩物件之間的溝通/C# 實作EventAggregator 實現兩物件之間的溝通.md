@@ -51,7 +51,7 @@ MethodInfo，進行參數類型的比較，如果相同就暫存 MethodInfo
 最後是通知的部分，首先找到 message 參數的 type ，透過此 type 的 Name
 找到方法列表，然後就進行方法的呼叫，呼叫方法如下圖7：
 
-![](./imagse/image7.png)
+![](./images/image7.png)
 
 圖7、通知實作
 

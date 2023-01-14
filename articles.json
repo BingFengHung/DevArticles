@@ -56,7 +56,12 @@
   }, {
     "title": "Visual Studio 2017 如何產生 git ignore 檔案",
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 2017 如何產生 git ignore 檔案/Visual Studio 2017 如何產生 git ignore 檔案.md",
-    "lastModifyDate": "2019-04-19",
+    "lastModifyDate": "2019-12-30",
+    "tags": ["Visual Studio"]
+  }, {
+    "title": "Visual Studio 2019 加入 gitignore 檔案",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 2019 加入 gitignore 檔案/Visual Studio 2019 加入 gitignore 檔案.md",
+    "lastModifyDate": "2019-12-30",
     "tags": ["Visual Studio"]
   }
 ],

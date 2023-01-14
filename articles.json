@@ -21,5 +21,11 @@
     "lastModifyDate": "2017-10-31",
     "tags": ["JavaScript"]
 
+  }],
+  "C#": [{
+    "title": "C# - Tuple介紹",
+    "link": "https://bingfenghung.github.io/DevArticles/C# - Tuple介紹/C# - Tuple介紹/C# - Tuple介紹.md",
+    "lastModifyDate": "2017-04-26",
+    "tags": ["C#"]
   }]
 }

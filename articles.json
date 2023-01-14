@@ -53,12 +53,18 @@
     "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/解決 Visual Studio 無法進入Debug模式中斷點的問題/解決 Visual Studio 無法進入Debug模式中斷點的問題.md",
     "lastModifyDate": "2019-04-19",
-    "tags": ["C#"]
+    "tags": ["Visual Studio"]
   }],
   "WPF": [{
     "title": "WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法",
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法/WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法.md",
     "lastModifyDate": "2023-01-14",
-    "tags": ["C#"]
-  }]
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF 多重樣式設定",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 多重樣式設定/WPF 多重樣式設定.md",
+    "lastModifyDate": "2022-11-03",
+    "tags": ["WPF"]
+  }
+]
 }

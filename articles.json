@@ -75,5 +75,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/Git/Git Stash 把當前修改暫存起來/Git Stash 把當前修改暫存起來.md",
     "lastModifyDate": "2022-09-22",
     "tags": ["WPF"]
+  }],
+  "Visual C++": [{
+    "title": "Visual C++ 變更檔案輸出路徑",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualC++/Visual C++ 變更檔案輸出路徑/Visual C++ 變更檔案輸出路徑.md",
+    "lastModifyDate": "2022-09-22",
+    "tags": ["Visual C++"]
   }]
 }

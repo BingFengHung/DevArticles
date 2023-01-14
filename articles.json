@@ -47,8 +47,7 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# 好用的除錯工具/C# 好用的除錯工具.md",
     "lastModifyDate": "2018-01-30",
     "tags": ["C#"]
-  }
-],
+  } ],
   "VisualStudio": [{
     "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/解決 Visual Studio 無法進入Debug模式中斷點的問題/解決 Visual Studio 無法進入Debug模式中斷點的問題.md",
@@ -70,6 +69,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 圓弧容器/WPF 圓弧容器.md",
     "lastModifyDate": "2020-11-24",
     "tags": ["WPF"]
-  }
-]
+  }],
+  "Git": [{
+    "title": "Git Stash 把當前修改暫存起來",
+    "link": "https://bingfenghung.github.io/DevArticles/Git/Git Stash 把當前修改暫存起來/Git Stash 把當前修改暫存起來.md",
+    "lastModifyDate": "2022-09-22",
+    "tags": ["WPF"]
+  }]
 }

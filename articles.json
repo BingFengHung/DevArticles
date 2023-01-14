@@ -85,7 +85,12 @@
     "title": "Git Stash 把當前修改暫存起來",
     "link": "https://bingfenghung.github.io/DevArticles/Git/Git Stash 把當前修改暫存起來/Git Stash 把當前修改暫存起來.md",
     "lastModifyDate": "2022-09-22",
-    "tags": ["WPF"]
+    "tags": ["Git"]
+  }, {
+    "title": "Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控",
+    "link": "https://bingfenghung.github.io/DevArticles/Git/Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控/Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控.md",
+    "lastModifyDate": "2022-02-23",
+    "tags": ["Git"]
   }],
   "Visual C++": [{
     "title": "Visual C++ 變更檔案輸出路徑",

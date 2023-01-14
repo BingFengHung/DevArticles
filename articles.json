@@ -32,6 +32,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce)/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce).md",
     "lastModifyDate": "2022-10-03",
     "tags": ["C#"]
-  }
-  ]
+  }],
+  "VisualStudio": [{
+    "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/解決 Visual Studio 無法進入Debug模式中斷點的問題/解決 Visual Studio 無法進入Debug模式中斷點的問題.md",
+    "lastModifyDate": "2019-04-19",
+    "tags": ["C#"]
+  }]
 }

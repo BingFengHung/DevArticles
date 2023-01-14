@@ -24,12 +24,12 @@
   }],
   "C#": [{
     "title": "C# - Tuple介紹",
-    "link": "https://bingfenghung.github.io/DevArticles/C# - Tuple介紹/C# - Tuple介紹/C# - Tuple介紹.md",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# - Tuple介紹/C# - Tuple介紹/C# - Tuple介紹.md",
     "lastModifyDate": "2017-04-26",
     "tags": ["C#"]
   }, {
     "title": "C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce)",
-    "link": "https://bingfenghung.github.io/DevArticles/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce)/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce).md",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce)/C# 陣列操作方法如同 JavaScript 一樣 (map、filter 與 reduce).md",
     "lastModifyDate": "2022-10-03",
     "tags": ["C#"]
   }

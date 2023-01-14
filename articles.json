@@ -53,7 +53,13 @@
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/解決 Visual Studio 無法進入Debug模式中斷點的問題/解決 Visual Studio 無法進入Debug模式中斷點的問題.md",
     "lastModifyDate": "2019-04-19",
     "tags": ["Visual Studio"]
-  }],
+  }, {
+    "title": "Visual Studio 2017 如何產生 git ignore 檔案",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 2017 如何產生 git ignore 檔案/Visual Studio 2017 如何產生 git ignore 檔案.md",
+    "lastModifyDate": "2019-04-19",
+    "tags": ["Visual Studio"]
+  }
+],
   "WPF": [{
     "title": "WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法",
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法/WPF 縮寫 Grid ColumnDefinition 與 RowDefinition 方法.md",

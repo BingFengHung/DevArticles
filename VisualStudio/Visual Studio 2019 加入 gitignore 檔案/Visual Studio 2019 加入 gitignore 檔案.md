@@ -1,4 +1,4 @@
-**Visual Studio 2019 加入 gitignore 檔案**
+# Visual Studio 2019 加入 gitignore 檔案
 
 最近 Visual Studio 一直改版，而最近比較大變動的就屬 Git
 的部分，原本的加入 gitingore

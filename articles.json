@@ -1,10 +1,5 @@
 {
-  "Node.js": [{ 
-    "title": "Node.js 套件指令",
-    "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js%20%E5%A5%97%E4%BB%B6%E6%8C%87%E4%BB%A4.md",
-    "lastModifyDate": "2019-05-09",
-    "tags": "213"
-  }, {
+  "Node.js": [{
     "title": "Node.js module.exports 與 exports 之間的差異",
     "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js module.exports 與 exports 之間的差異/Node.js module.exports 與 exports 之間的差異.md",
     "lastModifyDate": "2018-02-27",

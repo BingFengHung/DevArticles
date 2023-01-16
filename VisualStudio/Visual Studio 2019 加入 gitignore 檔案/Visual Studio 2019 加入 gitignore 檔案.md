@@ -12,7 +12,7 @@
 
 然後選擇右上角點開推送旁邊的標籤，並點擊管理遠端，如下圖 2 所示：
 
-![](./images/image3.png)
+![](./images/image2.png)
 
 圖 2、開啟管理遠端
 
@@ -20,12 +20,12 @@
 一般，可以找到 Git Files忽略檔案的選項，選擇點擊新增即可加入 gitignore
 檔案，如下圖 3 所示：
 
-![](./images/image5.png)
+![](./images/image3.png)
 
 圖 3、Git files 選項
 
 新增之後就有 gitignore 檔案了，如下圖 4 所示：
 
-![](./images/image7.png)
+![](./images/image4.png)
 
 圖 4、加入 gitignore

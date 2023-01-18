@@ -183,5 +183,10 @@
     "link": "https://bingfenghung.github.io/DevArticles/Xamarin.Forms/Xamarin Android 編譯路徑過長問題/Xamarin Android 編譯路徑過長問題.md",
     "lastModifyDate": "2021-08-11",
     "tags": ["Xamarin.Forms"]
+  }, {
+    "title": "Xamarin.Forms Attached Properties 附加屬性",
+    "link": "https://bingfenghung.github.io/DevArticles/Xamarin.Forms/Xamarin.Forms Attached Properties 附加屬性/Xamarin.Forms Attached Properties 附加屬性.md",
+    "lastModifyDate": "2021-12-28",
+    "tags": ["Xamarin.Forms"]
   }]
 }

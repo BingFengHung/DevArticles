@@ -82,7 +82,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# 使用Linq GroupBy 進行資料及分組/C# 使用Linq GroupBy 進行資料及分組.md",
     "lastModifyDate": "2022-01-27",
     "tags": ["C#"]
-
+  }, {
+    "title": "C# 使用程序標準輸入與輸出",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 使用程序標準輸入與輸出/C# 使用程序標準輸入與輸出.md",
+    "lastModifyDate": "2022-06-17",
+    "tags": ["C#"]
   }],
   "VisualStudio": [{
     "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",

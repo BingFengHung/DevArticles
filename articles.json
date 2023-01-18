@@ -120,6 +120,21 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 圓弧容器/WPF 圓弧容器.md",
     "lastModifyDate": "2020-11-24",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF 圓弧容器",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 圓弧容器/WPF 圓弧容器.md",
+    "lastModifyDate": "2020-11-24",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF ComboBox Placeholder 預設文字",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF ComboBox Placeholder 預設文字/WPF ComboBox Placeholder 預設文字.md",
+    "lastModifyDate": "2020-12-30",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF Binding通知屬性變更的簡化寫法",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF Binding通知屬性變更的簡化寫法/WPF Binding通知屬性變更的簡化寫法.md",
+    "lastModifyDate": "2017-10-31",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

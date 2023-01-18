@@ -140,6 +140,26 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF Binding 通知屬性變更的簡化寫法 (2)/WPF Binding 通知屬性變更的簡化寫法 (2).md",
     "lastModifyDate": "2018-09-26",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF DataContext 概念釐清",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF DataContext 概念釐清/WPF DataContext 概念釐清.md",
+    "lastModifyDate": "2020-08-09",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF FontAwesome 如何知道引入的字串",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF FontAwesome 如何知道引入的字串/WPF FontAwesome 如何知道引入的字串.md",
+    "lastModifyDate": "2022-11-11",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF ItemsControl 中的 RadioButton 預設第一個項目是被選取的狀態",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF ItemsControl 中的 RadioButton 預設第一個項目是被選取的狀態/WPF ItemsControl 中的 RadioButton 預設第一個項目是被選取的狀態.md",
+    "lastModifyDate": "2022-05-17",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF ItemsControl 內容元素同寬設定",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF ItemsControl 內容元素同寬設定/WPF ItemsControl 內容元素同寬設定.md",
+    "lastModifyDate": "2022-05-16",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

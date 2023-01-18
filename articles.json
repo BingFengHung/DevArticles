@@ -42,7 +42,32 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# 好用的除錯工具/C# 好用的除錯工具.md",
     "lastModifyDate": "2018-01-30",
     "tags": ["C#"]
-  } ],
+  }, {
+    "title": "C# DateTime 迴圈",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# DateTime 迴圈/C# DateTime 迴圈.md",
+    "lastModifyDate": "2022-04-25",
+    "tags": ["C#"]
+  }, {
+    "title": "C# 讓 CancellationTokenSource 正確停止",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 讓 CancellationTokenSource 正確停止/C# 讓 CancellationTokenSource 正確停止.md",
+    "lastModifyDate": "2022-08-19",
+    "tags": ["C#"]
+  }, {
+    "title": "C# BeginInvoke vs Invoke",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# BeginInvoke vs Invoke/C# BeginInvoke vs Invoke.md",
+    "lastModifyDate": "2021-01-27",
+    "tags": ["C#"]
+  }, {
+    "title": "C# String.Copy",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# String.Copy/C# String.Copy.md",
+    "lastModifyDate": "2021-01-28",
+    "tags": ["C#"]
+  }, {
+    "title": "C# 隨機數值產生",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 隨機數值產生/C# 隨機數值產生.md",
+    "lastModifyDate": "2021-02-25",
+    "tags": ["C#"]
+  }],
   "VisualStudio": [{
     "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/解決 Visual Studio 無法進入Debug模式中斷點的問題/解決 Visual Studio 無法進入Debug模式中斷點的問題.md",

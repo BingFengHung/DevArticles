@@ -135,6 +135,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF Binding通知屬性變更的簡化寫法/WPF Binding通知屬性變更的簡化寫法.md",
     "lastModifyDate": "2017-10-31",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF Binding 通知屬性變更的簡化寫法 (2)",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF Binding 通知屬性變更的簡化寫法 (2)/WPF Binding 通知屬性變更的簡化寫法 (2).md",
+    "lastModifyDate": "2018-09-26",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

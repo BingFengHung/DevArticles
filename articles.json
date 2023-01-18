@@ -177,6 +177,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/Visual C++/Visual C++ 變更檔案輸出路徑/Visual C++ 變更檔案輸出路徑.md",
     "lastModifyDate": "2022-12-26",
     "tags": ["Visual C++"]
+  }, {
+    "title": "Visual C++ C1010 忘記加上 StdAfx.h 錯誤",
+    "link": "https://bingfenghung.github.io/DevArticles/Visual C++/Visual C++ C1010 忘記加上 StdAfx.h 錯誤/Visual C++ C1010 忘記加上 StdAfx.h 錯誤.md",
+    "lastModifyDate": "2022-06-14",
+    "tags": ["Visual C++"]
   }], 
   "Xamarin.Forms": [{
     "title": "Xamarin Android 編譯路徑過長問題",

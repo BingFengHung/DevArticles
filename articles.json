@@ -123,6 +123,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 快速開啟檔案所在的資料夾/Visual Studio 快速開啟檔案所在的資料夾.md",
     "lastModifyDate": "2022-02-23",
     "tags": ["Visual Studio"]
+  }, {
+    "title": "Visual Studio 程式已重試超過 10 次",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 程式已重試超過 10 次/Visual Studio 程式已重試超過 10 次.md",
+    "lastModifyDate": "2020-07-27",
+    "tags": ["Visual Studio"]
   }
 ],
   "WPF": [{

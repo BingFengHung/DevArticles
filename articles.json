@@ -118,6 +118,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 在解決方案與可用檢視之間切換/Visual Studio 在解決方案與可用檢視之間切換.md",
     "lastModifyDate": "2022-07-04",
     "tags": ["Visual Studio"]
+  }, {
+    "title": "Visual Studio 快速開啟檔案所在的資料夾",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 快速開啟檔案所在的資料夾/Visual Studio 快速開啟檔案所在的資料夾.md",
+    "lastModifyDate": "2022-02-23",
+    "tags": ["Visual Studio"]
   }
 ],
   "WPF": [{

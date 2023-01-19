@@ -103,6 +103,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 2019 加入 gitignore 檔案/Visual Studio 2019 加入 gitignore 檔案.md",
     "lastModifyDate": "2019-12-30",
     "tags": ["Visual Studio"]
+  }, {
+    "title": "Visual Studio Item Template 建立專屬的檔案格式",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio Item Template 建立專屬的檔案格式/Visual Studio Item Template 建立專屬的檔案格式.md",
+    "lastModifyDate": "2018-10-25",
+    "tags": ["Visual Studio"]
   }
 ],
   "WPF": [{

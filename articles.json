@@ -113,7 +113,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio Project Template 建立專屬的專案樣板/Visual Studio Project Template 建立專屬的專案樣板.md",
     "lastModifyDate": "2018-07-30",
     "tags": ["Visual Studio"]
-
+  }, {
+    "title": "Visual Studio 在解決方案與可用檢視之間切換",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 在解決方案與可用檢視之間切換/Visual Studio 在解決方案與可用檢視之間切換.md",
+    "lastModifyDate": "2022-07-04",
+    "tags": ["Visual Studio"]
   }
 ],
   "WPF": [{

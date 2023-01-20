@@ -1,6 +1,10 @@
 [
   {
-    "title": "Chocolatey",
-    "link": ""
+    "title": "Chocolatey Install",
+    "link": "chocolatey_install.md"
+  },
+  {
+    "title": "pandoc_install",
+    "link": "pandoc_install.md"
   }
 ]

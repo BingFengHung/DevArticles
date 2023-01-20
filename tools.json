@@ -1,8 +1,8 @@
 {
-  "chocolaty": {
-    "title": "Chocolaty",
-    "url": "Chocolaty",
-    "link": "https://bingfenghung/github.io/DevArticles/Tools/Chocolaty/link.json"
+  "chocolatey": {
+    "title": "Chocolatey",
+    "url": "Chocolatey",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/Chocolatey/link.json"
   }, 
   "Vim": {
     "title": "Vim",

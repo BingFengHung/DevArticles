@@ -1,22 +1,27 @@
 {
   "chocolaty": {
     "title": "Chocolaty",
+    "url": "Chocolaty",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/Chocolaty/link.json"
   }, 
   "Vim": {
     "title": "Vim",
+    "url": "Vim",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/Vim/link.json"
   },
   "Docker": {
     "title": "Docker",
+    "url": "Docker",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/Docker/link.json"
   },
   "Nuxt" : {
     "title": "Nuxt",
+    "url": "Nuxt",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/Chocolaty/link.json"
   },
   "Visual Studio Code" : {
     "title": "Visual Studio Code",
+    "url": "VisualStudioCode",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/VisualStudioCode/link.json"
   }
 }

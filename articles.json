@@ -192,8 +192,8 @@
     "lastModifyDate": "2022-09-22",
     "tags": ["Git"]
   }, {
-    "title": "Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控",
-    "link": "https://bingfenghung.github.io/DevArticles/Git/Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控/Git 將已受版本款控但包含在 .gitignore 中的檔案移出版本管控.md",
+    "title": "Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控",
+    "link": "https://bingfenghung.github.io/DevArticles/Git/Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控/Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控.md",
     "lastModifyDate": "2022-02-23",
     "tags": ["Git"]
   }],

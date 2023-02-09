@@ -87,6 +87,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# 使用程序標準輸入與輸出/C# 使用程序標準輸入與輸出.md",
     "lastModifyDate": "2022-06-17",
     "tags": ["C#"]
+  }, {
+    "title": "C# NUnit 單元測試 (1)-測試專案配置",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# NUnit 單元測試 (1)-測試專案配置/C# NUnit 單元測試 (1)-測試專案配置.md",
+    "lastModifyDate": "2023-02-09",
+    "tags": ["C#", "Unit Test"]
   }],
   "VisualStudio": [{
     "title": "解決 Visual Studio 無法進入Debug模式中斷點的問題",

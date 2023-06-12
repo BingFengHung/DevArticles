@@ -23,5 +23,10 @@
     "title": "Visual Studio Code",
     "url": "VisualStudioCode",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/VisualStudioCode/link.json"
+  },
+  "Dotnet Cli" : {
+    "title": "Dotnet CLI",
+    "url": "dotnet",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/dotnet/link.json"
   }
 }

@@ -2,5 +2,9 @@
   {
     "title": "在 Linux 底下安裝 Vim", 
     "link": "Linux_vim_install.md" 
+  },
+  {
+    "title": "搜尋 vimrc 檔案路徑", 
+    "link": "find_vimrc_file.md" 
   }
 ]

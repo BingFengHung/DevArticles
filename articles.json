@@ -92,6 +92,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# NUnit 單元測試 (1)-測試專案配置/C# NUnit 單元測試 (1)-測試專案配置.md",
     "lastModifyDate": "2023-02-09",
     "tags": ["C#", "Unit Test"]
+  }, {
+    "title": "C# 如何使用最新語言版本",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 如何使用最新語言版本/C# 如何使用最新語言版本.md",
+    "lastModifyDate": "2023-05-23",
+    "tags": ["C#"]
   }],
   "VisualStudio": [{
     "title": "Visual Studio 介面實作時取消建議使用擲回屬性",

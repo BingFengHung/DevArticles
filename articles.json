@@ -220,6 +220,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 使用 UniformGrid 平均分配行與列/WPF 使用 UniformGrid 平均分配行與列.md",
     "lastModifyDate": "2023-03-20",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF IValueConverter 裡面的 ConvertBack 函式說明",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF IValueConverter 裡面的 ConvertBack 函式說明/WPF IValueConverter 裡面的 ConvertBack 函式說明.md",
+    "lastModifyDate": "2023-06-13",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

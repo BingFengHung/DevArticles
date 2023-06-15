@@ -225,6 +225,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF IValueConverter 裡面的 ConvertBack 函式說明/WPF IValueConverter 裡面的 ConvertBack 函式說明.md",
     "lastModifyDate": "2023-06-13",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF 圓角破圖問題修正",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 圓角破圖問題修正/WPF 圓角破圖問題修正.md",
+    "lastModifyDate": "2023-06-13",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

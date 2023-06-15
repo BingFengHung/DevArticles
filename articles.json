@@ -230,6 +230,16 @@
     "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 圓角破圖問題修正/WPF 圓角破圖問題修正.md",
     "lastModifyDate": "2023-06-14",
     "tags": ["WPF"]
+  }, {
+    "title": "WPF 在 XAML 中顯示 Unicode 符號",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 在 XAML 中顯示 Unicode 符號/WPF 在 XAML 中顯示 Unicode 符號.md",
+    "lastModifyDate": "2023-06-08",
+    "tags": ["WPF"]
+  }, {
+    "title": "WPF 在 DataTrigger 使用 Binding 到 To 屬性失敗解決辦法",
+    "link": "https://bingfenghung.github.io/DevArticles/WPF/WPF 在 DataTrigger 使用 Binding 到 To 屬性失敗解決辦法/WPF 在 DataTrigger 使用 Binding 到 To 屬性失敗解決辦法.md",
+    "lastModifyDate": "2023-06-15",
+    "tags": ["WPF"]
   }],
   "Git": [{
     "title": "Git Stash 把當前修改暫存起來",

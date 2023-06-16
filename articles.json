@@ -1,4 +1,10 @@
 {
+  "Python": [{
+    "title": "Python 建立一個 dll 檔案安裝器",
+    "link": "https://bingfenghung.github.io/DevArticles/Python/Python 建立一個 dll 檔案安裝器/Python 建立一個 dll 檔案安裝器.md",
+    "lastModifyDate": "2023-06-16",
+    "tags": ["Python"]
+  }],
   "Node.js": [{
     "title": "Node.js module.exports 與 exports 之間的差異",
     "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js module.exports 與 exports 之間的差異/Node.js module.exports 與 exports 之間的差異.md",

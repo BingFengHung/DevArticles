@@ -4,6 +4,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/Python/Python 建立一個 dll 檔案安裝器/Python 建立一個 dll 檔案安裝器.md",
     "lastModifyDate": "2023-06-16",
     "tags": ["Python"]
+  }, {
+    "title": "Python 呼叫 C# 程式碼",
+    "link": "https://bingfenghung.github.io/DevArticles/Python/Python 呼叫 C# 程式碼/Python 呼叫 C# 程式碼.md",
+    "lastModifyDate": "2023-09-25",
+    "tags": ["Python"]
   }],
   "Node.js": [{
     "title": "Node.js module.exports 與 exports 之間的差異",

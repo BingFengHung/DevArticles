@@ -15,6 +15,11 @@
     "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js module.exports 與 exports 之間的差異/Node.js module.exports 與 exports 之間的差異.md",
     "lastModifyDate": "2018-02-27",
     "tags": ["Node.js", "JavaScript"]
+  }, {
+    "title": "Node.js CommonJS 模組說明",
+    "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js CommonJS 模組說明/Node.js CommonJS 模組說明.md",
+    "lastModifyDate": "2023-10-31",
+    "tags": ["Node.js", "JavaScript"]
   }],
   "JavaScript": [{
     "title": "JavaScript 函式多型實作",

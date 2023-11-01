@@ -115,6 +115,11 @@
     "tags": ["C#"]
   }],
   "VisualStudio": [{
+    "title": "Visual Studio WPF 專案無法加入資源字典檔案問題",
+    "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio WPF 專案無法加入資源字典檔案問題/Visual Studio WPF 專案無法加入資源字典檔案問題.md",
+    "lastModifyDate": "2023-11-01",
+    "tags": ["Visual Studio"]
+  },{
     "title": "Visual Studio 編譯錯誤：此專案參考這部電腦上所缺少的 NuGet 封裝",
     "link": "https://bingfenghung.github.io/DevArticles/VisualStudio/Visual Studio 編譯錯誤：此專案參考這部電腦上所缺少的 NuGet 封裝/Visual Studio 編譯錯誤：此專案參考這部電腦上所缺少的 NuGet 封裝.md",
     "lastModifyDate": "2023-11-01",

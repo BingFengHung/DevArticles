@@ -34,6 +34,11 @@
 
   }],
   "C#": [{
+    "title": "C# 資料庫遷移工具 DbUp",
+    "link": "https://bingfenghung.github.io/DevArticles/C#/C# 資料庫遷移工具 DbUp/C# 資料庫遷移工具 DbUp.md",
+    "lastModifyDate": "2023-11-02",
+    "tags": ["C#"]
+  },{
     "title": "C# - Tuple介紹",
     "link": "https://bingfenghung.github.io/DevArticles/C#/C# - Tuple介紹/C# - Tuple介紹.md",
     "lastModifyDate": "2017-04-26",

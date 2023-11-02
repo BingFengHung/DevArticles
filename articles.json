@@ -1,4 +1,10 @@
 {
+  "Rust": [{
+    "title": "Rust 所有權介紹",
+    "link": "https://bingfenghung.github.io/DevArticles/Rust 所有權介紹/Rust 所有權介紹.md",
+    "lastModifyDate": "2023-11-02",
+    "tags": ["Rust"]
+  }],
   "Python": [{
     "title": "Python 建立一個 dll 檔案安裝器",
     "link": "https://bingfenghung.github.io/DevArticles/Python/Python 建立一個 dll 檔案安裝器/Python 建立一個 dll 檔案安裝器.md",

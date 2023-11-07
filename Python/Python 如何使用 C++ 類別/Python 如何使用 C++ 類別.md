@@ -50,8 +50,13 @@ __declspec(dllexport) 是一個 Microsoft Visual C++ 的指令，用來將函式
 
 接下來說明程式碼：
 -	mydll = ctypes.CDLL('./CPP.dll')，這行程式碼建立了一個 mydll 物件。可以使用 mydll 物件來呼叫這個 DLL 中的函式。
+
 -	class MyClass(ctypes.Structure)，這個部分是在定義一個 MyClass 類別，它只是一個空的類別定義，為了稍後的使用做準備。
+
 -	mydll.MyClass_new.restype = ctypes.POINTER(MyClass)，這行程式碼指定了 MyClass_new 函數的返回類型，該函數返回一個指向 MyClass 類別的指標。
+
 -	my_class = mydll.MyClass_new()，這行程式碼呼叫了 MyClass_new 函數，並將其返回的指標存在 my_class 變數中。
+
 -	result = mydll.MyClass_Add(my_class, 10, 20)，這行程式碼呼叫了 MyClass_Add 的函式，並給定了 my_class 物件以及兩個整數參數 (10 和 20)。函式的結果存儲在 result 變數。
+
 -	mydll.MyClass_del(my_class) 這行程式碼呼叫了 MyClass_del 函數，用來釋放先前分配的 my_class 物件。

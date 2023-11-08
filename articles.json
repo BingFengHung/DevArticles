@@ -1,5 +1,11 @@
 {
   "Rust": [{
+    "title": "Enum 介紹",
+    "link": "https://bingfenghung.github.io/DevArticles/Rust/Enum 介紹/Enum 介紹.md",
+    "lastModifyDate": "2023-11-08",
+    "tags": ["Rust"]
+
+  },{
     "title": "Rust 所有權介紹",
     "link": "https://bingfenghung.github.io/DevArticles/Rust/Rust 所有權介紹/Rust 所有權介紹.md",
     "lastModifyDate": "2023-11-02",

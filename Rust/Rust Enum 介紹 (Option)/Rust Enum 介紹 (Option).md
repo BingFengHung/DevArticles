@@ -1,4 +1,4 @@
-# Enum 介紹 (Option)
+# Rust Enum 介紹 (Option)
 
 前一篇介紹基本的 Enum，在 Rust 裡面有一個 Option 的列舉，很常被使用在許多場合中，他主要用來表示一個變數可能有值或是沒有值。
 

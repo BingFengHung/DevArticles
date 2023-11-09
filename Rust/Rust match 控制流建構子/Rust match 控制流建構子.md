@@ -43,6 +43,7 @@ match color {
    }
    _ => println!("Other Colors")
 }
+```
 
 只需要使用 `_` 就可以表示其他的可能值。
 

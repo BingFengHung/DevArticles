@@ -1,5 +1,10 @@
 {
   "Rust": [{
+    "title": "Rust match 控制流建構子",
+    "link": "https://bingfenghung.github.io/DevArticles/Rust/Rust match 控制流建構子/Rust match 控制流建構子.md",
+    "lastModifyDate": "2023-11-09",
+    "tags": ["Rust"]
+  },{
     "title": "Enum 介紹 (Option)",
     "link": "https://bingfenghung.github.io/DevArticles/Rust/Enum 介紹 (Option)/Enum 介紹 (Option).md",
     "lastModifyDate": "2023-11-09",

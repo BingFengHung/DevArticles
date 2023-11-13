@@ -21,6 +21,11 @@
     "tags": ["Rust"]
   }],
   "Python": [{
+    "title": "Python poetry 套件管理工具",
+    "link": "https://bingfenghung.github.io/DevArticles/Python/Python poetry 套件管理工具/Python poetry 套件管理工具.md",
+    "lastModifyDate": "2023-11-13",
+    "tags": ["Python"]
+  },{
     "title": "Python 如何使用 C++ 類別",
     "link": "https://bingfenghung.github.io/DevArticles/Python/Python 如何使用 C++ 類別/Python 如何使用 C++ 類別.md",
     "lastModifyDate": "2023-11-07",

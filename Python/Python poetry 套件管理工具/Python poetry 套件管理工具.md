@@ -21,9 +21,10 @@ $VENV_PATH/Scripts/pip install poetry
 透過上面的指令安裝好之後，可以把 $VENV_PATH 加入環境變數中，方便直接呼叫 poetry 檔案使用。
 
 這邊我先用 cmd 指令簡單設定環境變數
+
 ```sh
 # %cd% 當前路徑
-set PATH=%cd%\Scripts
+set PATH=%cd%\Scripts;%PATH%
 ```
 
 上面這樣就能指定臨時的 PATH，所以就使用 poetry 這個套件管理工具，來進行管理
@@ -39,8 +40,8 @@ poetry 這邊有一個重點要注意，就是因為 poetry 會幫我們建立�
 
 這邊要將它設定為 true
 
-poetry config virtualenvs.in-project true
+> poetry config virtualenvs.in-project true
 
 下完之後，就可以在專案裡面有虛擬環境，而不是用全域的虛擬環境
 
-全域的虛擬環境在 ~\AppData\Local\pypoetry\Cache 資料夾裡面
+全域的虛擬環境在 %LocalAppData%\pypoetry\Cache 資料夾裡面

@@ -28,5 +28,10 @@
     "title": "Dotnet CLI",
     "url": "dotnet",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/dotnet/link.json"
+  },
+  "pnpm": {
+   "title": "pnpm",
+    "url": "pnpm",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/pnpm/link.json"
   }
 }

@@ -30,8 +30,15 @@
     "link": "https://bingfenghung/github.io/DevArticles/Tools/dotnet/link.json"
   },
   "pnpm": {
-   "title": "pnpm",
+    "title": "pnpm",
     "url": "pnpm",
-    "link": "https://bingfenghung/github.io/DevArticles/Tools/pnpm/link.json"
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/cmd/link.json"
+  },
+  "mysql": {
+    "title": "MySQL",
+    "url": "MySQL",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/MySQL/link.json"
+  }, 
+  "mysql": {
   }
 }

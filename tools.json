@@ -39,6 +39,9 @@
     "url": "MySQL",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/MySQL/link.json"
   }, 
-  "mysql": {
+  "cmd": {
+    "title": "cmd",
+    "url": "cmd",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/cmd/link.json"
   }
 }

@@ -2,5 +2,9 @@
   {
     "title": "pnpm 安裝",
     "link": "pnpm install.md"
+  },
+  {
+    "title": "pnpm 指令",
+    "link": "pnpm 指令.md"
   }
 ]

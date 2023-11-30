@@ -12,7 +12,6 @@ let map = new Map();
 // 設定 key-value
 map.set('key1', 1);
 map.set('key2', 2);
-```
 
 // 取得 key 對應的 value
 console.log(map.get('key1'));  // 1
@@ -27,7 +26,7 @@ console.log(map.size);  // 2
 map.delete('key1');
 
 // Map 迴圈
-for(let [key, vlaue] of map) {
+for(let [key, value] of map) {
      console.log(`${key} = ${value}`)
 }
 

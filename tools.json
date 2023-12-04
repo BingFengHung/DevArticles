@@ -43,5 +43,10 @@
     "title": "cmd",
     "url": "cmd",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/cmd/link.json"
+  },
+  "git bash": {
+    "title": "git bash",
+    "url": "Git Bash",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/git bash/link.json"
   }
 }

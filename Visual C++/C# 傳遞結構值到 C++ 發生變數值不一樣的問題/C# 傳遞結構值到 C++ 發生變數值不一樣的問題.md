@@ -54,7 +54,7 @@ public static void Main()
 
 到這邊程式碼執行的時候，預期會輸出 Data1 等於 1，以及 Data2 等於 2 的輸出，結果執行出來，結果並不如預期，畫面如下圖 1 所示：
 
-![](images/image1.png)
+<img src="images/image1.png" width="120px"/> 
 
 圖 1、輸出結果錯誤
 
@@ -74,6 +74,6 @@ public struct TEMP {
 
 這次再重新執行程式碼，就有正確的將結構的數值給取得到了，結果如下圖 2 所示：
 
-![](images/image2.png)
+<img src="images/image2.png" width="120px"/> 
 
 圖 2、結果正確輸出

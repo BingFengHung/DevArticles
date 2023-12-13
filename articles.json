@@ -70,6 +70,14 @@
   ],
   "Node.js": [
     {
+      "title": "Node.js 連接到 MongoDB 伺服器",
+      "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js 連接到 MongoDB 伺服器/Node.js 連接到 MongoDB 伺服器.md",
+      "lastModifyDate": "2023-12-13",
+      "tags": [
+        "Node.js", "MongoDB"
+      ]
+    },
+    {
       "title": "Node.js npx 使用說明",
       "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js npx 使用說明/Node.js npx 使用說明.md",
       "lastModifyDate": "2023-11-23",

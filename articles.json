@@ -622,9 +622,9 @@
   ],
   "MongoDB": [
     {
-      "title": "GitHub Actions 介紹",
-      "link": "https://bingfenghung.github.io/DevArticles/GitHub/GitHub Actions 介紹/GitHub Actions 介紹.md",
-      "lastModifyDate": "2023-02-11",
+      "title": "MongoDB 基本概念",
+      "link": "https://bingfenghung.github.io/DevArticles/MongoDB/MongoDB 基本概念/MongoDB 基本概念.md",
+      "lastModifyDate": "2023-12-13",
       "tags": [
         "MongoDB"
       ]

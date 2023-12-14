@@ -48,5 +48,10 @@
     "title": "Git Bash",
     "url": "git bash",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/git bash/link.json"
+  },
+  "Windows": {
+    "title": "Windows",
+    "url": "Windows",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/Windows/link.json"
   }
 }

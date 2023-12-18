@@ -74,7 +74,8 @@
       "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js 連接到 MongoDB 伺服器/Node.js 連接到 MongoDB 伺服器.md",
       "lastModifyDate": "2023-12-13",
       "tags": [
-        "Node.js", "MongoDB"
+        "Node.js",
+        "MongoDB"
       ]
     },
     {
@@ -553,6 +554,14 @@
       "title": "Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控",
       "link": "https://bingfenghung.github.io/DevArticles/Git/Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控/Git 將已受版本管控但包含在 .gitignore 中的檔案移出版本管控.md",
       "lastModifyDate": "2022-02-23",
+      "tags": [
+        "Git"
+      ]
+    },
+    {
+      "title": "git reset",
+      "link": "https://bingfenghung.github.io/DevArticles/Git/git reset/git reset.md",
+      "lastModifyDate": "2023-12-18",
       "tags": [
         "Git"
       ]

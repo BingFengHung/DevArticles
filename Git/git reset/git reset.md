@@ -52,11 +52,11 @@ e53b8b3 Add first.js file
 
    情境： 現在我新增了一個 third.js 的檔案，然後加入至 staged 狀態
 
-   ![1702875990519](image/gitreset/1702875990519.png)
+   ![1702875990519](./images/1702875990519.png)
 
    現在使用 git reset --soft e53b8b3
 
-   ![1702876177068](image/gitreset/1702876177068.png)
+   ![1702876177068](./images/1702876177068.png)
    可以看到他移動到前兩個 commit 的點，並且原本 second.js 的檔案也變成 staged 的狀態了。
 2. **mixed 模式**
    git reset --mixed `<commit>` (git rest 的預設選項)
@@ -64,11 +64,11 @@ e53b8b3 Add first.js file
 
    情境：也是一樣新增了一個 third.js 的檔案，並且加入到 staged
 
-   ![1702875990519](image/gitreset/1702875990519.png)
+   ![1702875990519](./images/1702875990519.png)
 
    接下來使用 git reset --mixed e53b8b3
 
-   ![1702876940367](image/gitreset/1702876940367.png)
+   ![1702876940367](./images/1702876940367.png)
 
    這次可以看到原本 third.js 已經有加入到 staged 狀態，以及原本 second.js 是在 commit 的記錄的，但下完指令之後，他們都變成 Untracked 檔案的狀態
 3. **hard 模式**
@@ -77,11 +77,11 @@ e53b8b3 Add first.js file
 
    情境：也是一樣新增了一個 third.js 的檔案，並且加入到 staged
 
-   ![1702875990519](image/gitreset/1702875990519.png)
+   ![1702875990519](./images/1702875990519.png)
 
    接下來使用 git reset --hard e53b8b3
 
-   ![1702878960147](image/gitreset/1702878960147.png)
+   ![1702878960147](./images/1702878960147.png)
 
    原本在裡面的 third.js 檔案整個被刪除掉了。
 

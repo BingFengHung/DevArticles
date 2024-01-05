@@ -6,5 +6,9 @@
   {
     "title": "wifi 與乙太網路上網衝突解決辦法",
     "link": "wifi_ethernet_conflict.md"
+  },
+  {
+    "title": "Windows Startup 資料夾路徑",
+    "link": "startup_folder.md"
   }
 ]

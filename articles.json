@@ -212,6 +212,15 @@
       "tags": [
         "JavaScript"
       ]
+    },
+    {
+      "title": "JavaScript 正則表達式 Regex",
+      "link": "https://bingfenghung.github.io/DevArticles/JavaScript/JavaScript 正則表達式 Regex/JavaScript 正則表達式 Regex.md",
+      "lastModifyDate": "2024-01-13",
+      "tags": [
+        "JavaScript",
+        " Regex"
+      ]
     }
   ],
   "C#": [

@@ -719,5 +719,15 @@
         "MongoDB"
       ]
     }
+  ],
+  "Go": [
+    {
+      "title": "GoLang 基本語法",
+      "link": "https://bingfenghung.github.io/DevArticles/Go/GoLang 基本語法/GoLang 基本語法.md",
+      "lastModifyDate": "2024-01-25",
+      "tags": [
+        "Go"
+      ]
+    }
   ]
 }

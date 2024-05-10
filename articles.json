@@ -229,10 +229,19 @@
         "JavaScript",
         " Regex"
       ]
-    }, {
+    },
+    {
       "title": "JavaScript this 關鍵字",
       "link": "https://bingfenghung.github.io/DevArticles/JavaScript/JavaScript this 關鍵字/JavaScript this 關鍵字.md",
       "lastModifyDate": "2024-05-10",
+      "tags": [
+        "JavaScript"
+      ]
+    },
+    {
+      "title": "JavaScript ESM 模組",
+      "link": "https://bingfenghung.github.io/DevArticles/JavaScript/JavaScript ESM 模組/JavaScript ESM 模組.md",
+      "lastModifyDate": "2024-05-11",
       "tags": [
         "JavaScript"
       ]

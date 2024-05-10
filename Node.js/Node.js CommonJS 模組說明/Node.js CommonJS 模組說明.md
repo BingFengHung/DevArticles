@@ -38,7 +38,7 @@ Node.js 的 CommonJS 模組可用來將 JavaScript 以模組化的方式管理�
 
 若想要知道原理可以參考下圖 5 程式碼：
 
-![](images/images5.png)
+![](images/image5.png)
 
 圖 5、module.exports 與 exports
 

@@ -201,7 +201,16 @@
       "lastModifyDate": "2024-05-13",
       "tags": [
         "Node.js",
-        " JavaScript"
+        "JavaScript"
+      ]
+    },
+    {
+      "title": "Node.js fs 模組讀寫資料",
+      "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js fs 模組讀寫資料/Node.js fs 模組讀寫資料.md",
+      "lastModifyDate": "2024-05-14",
+      "tags": [
+        "Node.js",
+        "JavaScript"
       ]
     }
   ],
@@ -236,7 +245,7 @@
       "lastModifyDate": "2024-01-13",
       "tags": [
         "JavaScript",
-        " Regex"
+        "Regex"
       ]
     },
     {

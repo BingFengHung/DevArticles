@@ -61,3 +61,10 @@ car.bind()  // undefined
 function Car() {}
 console.log(Car.prototype.constructor === Car) // true
 ```
+
+## 總結
+- 每一個物件 (包含函式) 都有一個隱藏屬性 (`__proto__`)，會去指向物件原型
+- 以函式的 `__proto__` 屬性會去指向 Function.prototype
+- 如果是物件的 `__proto__` 屬性會去指向 Object.prototype
+- 每一個函式都會有 property 的屬性，其會指向 property 物件
+- 每一個函式的 property 物件會有一個 constructor 的屬性，這個屬性會去指向原本的函式。

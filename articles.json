@@ -221,6 +221,15 @@
         "Node.js",
         "JavaScript"
       ]
+    },
+    {
+      "title": "Node.js 在 ESM 模組底下正確使用 __dirname 與 __filename",
+      "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js 在 ESM 模組底下正確使用 __dirname 與 __filename/Node.js 在 ESM 模組底下正確使用 __dirname 與 __filename.md",
+      "lastModifyDate": "2024-05-21",
+      "tags": [
+        "Node.js",
+        "JavaScript"
+      ]
     }
   ],
   "JavaScript": [

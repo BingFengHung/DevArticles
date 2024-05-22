@@ -230,6 +230,14 @@
         "Node.js",
         "JavaScript"
       ]
+    },
+    {
+      "title": "Node.js Express 如何根據請求方法顯示不同的輸出顏色",
+      "link": "https://bingfenghung.github.io/DevArticles/Node.js/Node.js Express 如何根據請求方法顯示不同的輸出顏色/Node.js Express 如何根據請求方法顯示不同的輸出顏色.md",
+      "lastModifyDate": "2024-05-22",
+      "tags": [
+        "Node.js"
+      ]
     }
   ],
   "JavaScript": [

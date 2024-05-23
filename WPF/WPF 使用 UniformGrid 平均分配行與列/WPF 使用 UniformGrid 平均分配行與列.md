@@ -8,7 +8,7 @@ UniformGrid，只需指定 Rows 與 Columns
 
 UniformGrid 使用方法如下圖 1 所示：
 
-![](.images/image1.png)
+![](./images/image1.png)
 
 圖 1、UniformGrid 使用
 

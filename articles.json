@@ -353,6 +353,14 @@
       "tags": [
         "JavaScript"
       ]
+    },
+    {
+      "title": "JavaScript Array.from 介紹",
+      "link": "https://bingfenghung.github.io/DevArticles/JavaScript/JavaScript Array.from 介紹/JavaScript Array.from 介紹.md",
+      "lastModifyDate": "2024-06-14",
+      "tags": [
+        "JavaScript"
+      ]
     }
   ],
   "C#": [
@@ -845,14 +853,6 @@
       "title": "GitHub Actions 介紹",
       "link": "https://bingfenghung.github.io/DevArticles/GitHub/GitHub Actions 介紹/GitHub Actions 介紹.md",
       "lastModifyDate": "2023-02-11",
-      "tags": [
-        "GitHub"
-      ]
-    },
-    {
-      "title": "本地端 Git 推送到遠端 GitHub",
-      "link": "https://bingfenghung.github.io/DevArticles/GitHub/本地端 Git 推送到遠端 GitHub/本地端 Git 推送到遠端 GitHub.md",
-      "lastModifyDate": "2024-05-30",
       "tags": [
         "GitHub"
       ]

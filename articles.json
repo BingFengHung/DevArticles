@@ -2,7 +2,7 @@
   "Vue": [
     {
       "title": "Vue 聲明式與命令式差別",
-      "link": "https://bingfenghung.github.io/DevArticles/Vue/Vue 聲明式與命令式差別/Vue 聲明式與命令式差別.md",
+      "link": "/Vue/Vue 聲明式與命令式差別/Vue 聲明式與命令式差別.md",
       "lastModifyDate": "2024-06-18",
       "tags": [
         "Vue"

@@ -1,12 +1,14 @@
 {
-  "VisualCode": [{
+  "VisualCode": [
+    {
       "title": "Visual Code 終端機顯示亂碼問題",
       "link": "/VisualCode/Visual Code 終端機顯示亂碼問題/Visual Code 終端機顯示亂碼問題.md",
       "lastModifyDate": "2024-06-21",
       "tags": [
         "Visual Code"
       ]
-  }],
+    }
+  ],
   "Vue": [
     {
       "title": "Vue 聲明式與命令式差別",
@@ -547,6 +549,14 @@
       "title": "C# 命名慣例",
       "link": "/C#/C# 命名慣例/C# 命名慣例.md",
       "lastModifyDate": "2024-05-14",
+      "tags": [
+        "C#"
+      ]
+    },
+    {
+      "title": "C# 有參數的建構子抽象類別繼承方式",
+      "link": "/C#/C# 有參數的建構子抽象類別繼承方式/C# 有參數的建構子抽象類別繼承方式.md",
+      "lastModifyDate": "2024-06-25",
       "tags": [
         "C#"
       ]

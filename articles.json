@@ -560,6 +560,14 @@
       "tags": [
         "C#"
       ]
+    },
+    {
+      "title": "C# 何時需要 out 參數呢",
+      "link": "/C#/C# 何時需要 out 參數呢/C# 何時需要 out 參數呢.md",
+      "lastModifyDate": "2024-06-25",
+      "tags": [
+        "C#"
+      ]
     }
   ],
   "VisualStudio": [

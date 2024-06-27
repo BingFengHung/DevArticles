@@ -1,4 +1,14 @@
 {
+  "Others": [
+    {
+      "title": "亂數種子說明",
+      "link": "/Others/亂數種子說明/亂數種子說明.md",
+      "lastModifyDate": "2024-06-27",
+      "tags": [
+        "Visual Code"
+      ]
+    }
+  ],
   "VisualCode": [
     {
       "title": "Visual Code 終端機顯示亂碼問題",

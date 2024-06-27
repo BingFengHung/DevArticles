@@ -1,6 +1,6 @@
 # JavaScript this 關鍵字
 ## 前言
-之前對於 JavaScript 的 this 關鍵字指向的到底是誰搞不清楚，最近好好的研讀了一下，終於將 this 關鍵字搞明白；為此，趕緊筆記下來以免過一段時間又忘記。
+之前對於 JavaScript 的 this 關鍵字，指向的到底是誰搞不清楚，最近好好的研讀了一下，終於將 this 關鍵字搞明白；為此，趕緊筆記下來以免過一段時間又忘記。
 
 ## What is this?
 通常 **this** 的值是由呼叫的物件所決定的。不過由於箭頭函式作法有點不太一樣，所以在另外拉出來做特例討論。
@@ -11,7 +11,7 @@
 當函式做為某個物件的方法被呼叫的時候，this 所指向的會是該物件本身。
 
 ```js
-const person = {
+const person = { 
    name: "Joe",
    greet() {
       console.log(`Hello, ${this.name}`)
@@ -32,7 +32,7 @@ function greet() {
    console.log(`Hello, ${this.name}`)
 }
 
-greet()
+greet()  // Hello, Joe
 ```
 
 由於直接呼叫 greet() 方法，但是實際上它算是 window 物件的其中一個方法，所以本質上來說他其實還是由 window 所呼叫，因此 this 對應到的會是 window 物件。
@@ -53,15 +53,18 @@ Uncaught TypeError: Cannot read properties of undefined (reading 'name')
     at <anonymous>:8:1
 */
 ```
-由於在嚴格模式下的 this 是 undefined，所以根本無法讀到 name 屬性
+
+由於在嚴格模式下的 this 是 undefined，所以根本無法讀到 name 屬性。
 
 ### 建構函式中的 this
-當使用 new 關鍵字建立物件的時候，建構函式中的 this，所指向的會式新建立的物件實體。
+當使用 new 關鍵字建立物件的時候，建構函式中的 this，所指向的會是新建立的物件實體。
+
 ```js
 function Car(brand, model) {
    this.brand = brand;
    this.model = model
 }
+
 const car = new Car("Tesla", "Model Y");
 console.log(car);
 // Car {brand: 'Tesla', model: 'Model Y'}
@@ -162,6 +165,7 @@ for (let i = 0; i < elements.length; i++) {
 ```
 
 如果是直接在 DOM 元素上面定義的話，this 就會指向該 DOM 元素
+
 ```html
 <button onclick="alert(this);">Click</button>
 ```

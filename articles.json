@@ -1,4 +1,13 @@
-{
+{ 
+  "TypeScript": [{
+      "title": "TypeScript 專案建立步驟",
+      "link": "/TypeScript/TypeScript 專案建立步驟/TypeScript 專案建立步驟.md",
+      "lastModifyDate": "2024-07-01",
+      "tags": [
+        "TypeScript"
+      ]
+    }
+  ],
   "Others": [
     {
       "title": "亂數種子說明",

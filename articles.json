@@ -1,5 +1,6 @@
-{ 
-  "TypeScript": [{
+{
+  "TypeScript": [
+    {
       "title": "TypeScript 專案建立步驟",
       "link": "/TypeScript/TypeScript 專案建立步驟/TypeScript 專案建立步驟.md",
       "lastModifyDate": "2024-07-01",
@@ -174,6 +175,14 @@
       "title": "Python 如何在一台沒有網路的電腦安裝 Python",
       "link": "/Python/Python 如何在一台沒有網路的電腦安裝 Python/Python 如何在一台沒有網路的電腦安裝 Python.md",
       "lastModifyDate": "2024-02-06",
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "title": "Python 快速上手指南",
+      "link": "/Python/Python 快速上手指南/Python 快速上手指南.md",
+      "lastModifyDate": "2024-07-01",
       "tags": [
         "Python"
       ]

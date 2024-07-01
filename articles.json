@@ -1,4 +1,12 @@
 {
+  "Linux": [{
+      "title": "Linux 檔案權限說明",
+      "link": "/Linux/Linux 檔案權限說明/Linux 檔案權限說明.md",
+      "lastModifyDate": "2022-09-15",
+      "tags": [
+        "Linux"
+      ]
+  }],
   "TypeScript": [
     {
       "title": "TypeScript 專案建立步驟",

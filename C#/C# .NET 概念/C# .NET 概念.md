@@ -9,6 +9,6 @@ MSIL (Microsoft InterMediate Language) 中介語言，因為 MSIL 最終還是�
 
 只要能夠通過 CLS 規範的語言都是 managed 的 .NET 語言 
 
-![](2024-07-01-08-03-59.png)
+![](./images/01.png)
 
 CTS (Common Type System) 共通型態系統，主要是所有.NET 語言所共通使用的資料型態，這也是跨語言的重要關鍵。

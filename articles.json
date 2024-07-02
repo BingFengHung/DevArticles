@@ -1,17 +1,27 @@
 {
-  "Linux": [{
+  "Linux": [
+    {
       "title": "Linux 檔案權限說明",
       "link": "/Linux/Linux 檔案權限說明/Linux 檔案權限說明.md",
       "lastModifyDate": "2022-09-15",
       "tags": [
         "Linux"
       ]
-  }],
+    }
+  ],
   "TypeScript": [
     {
       "title": "TypeScript 專案建立步驟",
       "link": "/TypeScript/TypeScript 專案建立步驟/TypeScript 專案建立步驟.md",
       "lastModifyDate": "2024-07-01",
+      "tags": [
+        "TypeScript"
+      ]
+    },
+    {
+      "title": "TypeScript 快速上手指南",
+      "link": "/TypeScript/TypeScript 快速上手指南/TypeScript 快速上手指南.md",
+      "lastModifyDate": "2024-07-02",
       "tags": [
         "TypeScript"
       ]

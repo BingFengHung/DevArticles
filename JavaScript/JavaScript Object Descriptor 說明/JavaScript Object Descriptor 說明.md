@@ -15,7 +15,7 @@
 let obj = {} 
 
 // 定義資料描述符
-Object.defineProperty(obj, 'test' {
+Object.defineProperty(obj, 'test', {
   value: 42,
   writable: true,
   enumerable: true,
@@ -119,6 +119,7 @@ Object.defineProperty(obj, 'noConfig', {
 ```
 
 ## 問題
+
 ### 1. enumerable 如果是 true，迭代時是怎麼用的
 
 > 針對有設定 enumerable 屬性為 true 的物件，再用 for...in 迴圈，或是 Object.keys 的時候，就會被列出來，反之，則不會出現
@@ -137,24 +138,31 @@ Object.defineProperty(obj, 'noConfig', {
 enumerable 和 configurable 屬性在資料描述符和存取描述符中具有相同的意圖：控制屬性的可見性和可配置性。這些屬性對於保持屬性行為的一致性和可預測性至關重要，無論屬性是如何定義的。因此，它們在兩種類型的屬性描述符中都是必須的。
 
 ### 4. 使用 Object.defineProperty 與物件字面值差別在哪邊
+
 > 使用 **物件字面值** 定義物件的屬性會自動將屬性設定為可列舉、可寫、可配置
 > 使用 **Object.defineProeprty** 定義的屬性則可精確控制屬性行為。它讓你自行設定屬性的可配置性、可列舉性與可寫性，並且可用來定義 getter 與 setter 方法。
 >
 > **兩者的差異：**
 > 屬性行為控制：
+>
 > - **物件字面值**：屬性是可枚舉、可寫、可配置的。
 > - **Object.defineProperty**：可以精確控制屬性的 writable、enumerable 和 configurable 屬性。
 >
 > 靈活性：
+>
 > - **物件字面值**：適用於大多數簡單場景，語法簡潔。
 > - **Object.defineProperty**：適用於需要更細微控制的情況，例如，定義只讀屬性、隱藏屬性或使用 getter/setter。
 >
 > 預設值：
+>
 > - **物件字面值**：所有屬性預設為 true。
 > - **Object.defineProperty**：所有屬性預設為 false（除非明確的指定）。
 
 ### 5. 如果同時使用資料修飾符與存取修飾符會怎麼樣
+
 > 在 JavaScript 中，同一個屬性不能同時使用資料描述符與存取描述符。如果嘗試同時設定這兩種類型的描述符，JavaScript 會拋出一個 TypeError 錯誤。
 > 這兩種類型的描述符屬性是互斥的：如果一個描述符中同時存在 value 或 writable 和 get 或 set，這將被認為是無效的，因為這違反了描述符的定義。
+
 ### 6. Object.defineProperty 用在什麼場合
+
 > 適合需要特別設定屬性行為的場景，如定義只讀屬性、隱藏屬性或使用 getter/setter。

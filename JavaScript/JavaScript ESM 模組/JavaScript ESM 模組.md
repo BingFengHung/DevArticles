@@ -1,8 +1,11 @@
 # JavaScript ESM 模組
 
-ES Module 是 JavaScript 中實現模組功能的標準方法，他讓使用者能夠將程式碼拆分成可重複使用的模組，讓這些模組能夠輕易的在不同的 JavaScript 檔案中引入使用。
+ES Module 是 JavaScript 中實現模組功能的標準方法，讓使用者能夠將程式碼拆分成可重複使用的模組，讓這些模組能夠輕易的在不同的 JavaScript 檔案中引入使用。
 
 ## 基本概念
+模組通常指的是一個單獨的 JS 檔案，這個檔案包含了特定的功能，可以被其他模組或是檔案引入使用。
+
+每個 JS 檔案，再被當作模組使用的時候，都有自己的作用域，也就是說在模組內定義的變數、函式、類別等，不會成為全域作用域的一部分。
 
 1. 導出 (Export): 將任何 JavaScript 項目 (如變數、函數、類別等) 導出。
 2. 導入 (Import): 從其他模組導入
@@ -30,14 +33,17 @@ export function printNumber() {
 
 ## import 語法
 
-導入具名的 export: 需要明確指明要導入的名稱
+### 導入具名的 export： 需要明確指明要導入的名稱
 
 ```js
 import { number, printNumber } from './file1.js';
+
 printNumber();  // 42
 ```
 
-導入預設 export: 可以給定任意名稱
+### 導入預設 export: 可以給定任意名稱
+
+應該是說一定要給一個名稱
 
 ```js
 import myFunction from './file2.js';
@@ -46,12 +52,27 @@ myFunction();
 ```
 
 ## 其他導入方式
-
 導入整個模組，可以用 * 將一個模組內的所有導出導入
 
 ```js
 import * as File1 from './file1.js';
+
 File1.printNumber();  // 42
+```
+
+如果說是使用 export default 輸出的化，要使用上面的方法引入，就會變成這樣呼叫
+
+```js
+// file-default.js
+export default function() {
+    console.log('Hello');
+}
+```
+
+```js
+import * as my from './file-default.js';
+
+my.default();  // Hello
 ```
 
 ## 動態導入
@@ -78,7 +99,9 @@ export function printNumber() {
     console.log(number);
 }
 ```
+
 這樣寫與
+
 ```js
 const number = 42;
 function printNumber() { 
@@ -109,9 +132,11 @@ export function printNumber() {
 
 ```js
 const number = 42;
+
 function printNumber() {
     console.log(number);
 }
+
 export { number, printNumber };
 ```
 

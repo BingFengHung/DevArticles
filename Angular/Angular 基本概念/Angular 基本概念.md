@@ -232,3 +232,100 @@ export class AppComponent {
   }
 }
 ```
+
+## 組件之間的溝通 - @Input
+使用 **@Input** 裝飾器，指定哪些屬性是可以透過外部傳遞進來的。
+
+並且透過傳遞進來的資料再決定組件內部要做怎麼樣的邏輯處理。
+
+語法結構如下：
+
+```ts
+class CatComponent {
+  @Input() species = '';
+}
+```
+
+父組件要傳遞屬性值的話，撰寫方式如下：
+
+```ts
+@Component({
+  template: `<app-cat species="Felis catus"/>`
+})
+class GardenComponent {}
+```
+
+完整程式碼如下：
+
+子組件定義
+```ts
+import { Component, Input } from '@angular/core';
+
+@Component({
+  selector: 'app-cat',
+  template: `
+    <p>The cat's species is {{ species }}</p>
+  `,
+  standalone: true,
+})
+export class UserComponent {
+  @Input() species = '';
+}
+
+```
+
+父組件定義
+```ts
+import { Component } from '@angular/core';
+import { CatComponent } from './cat.component';
+
+@Component({
+  selector: 'app-root',
+  template: `
+    <app-cat species="Felis catus" />
+  `,
+  standalone: true,
+  imports: [CatComponent],
+})
+export class AppComponent {}
+```
+
+## 組件之間的溝通 - @Output
+有時候子組件需要發出通知給父組件知道，此時就需要定義 **@Output** 裝飾器
+
+其實這就是事件的觸發，當子組件達到某個條件時，要發出某個事件出來，讓外面有註冊該事件的父組件可以接收到通知，以此來作後需的邏輯處理。
+
+子組件定義事件，其語法定義如下：
+
+```ts
+class CatComponent {
+  count = 0;
+
+  @Output() incrementCountEvent= new EventEmitter<number>();
+  
+  onClick() {
+    this.count++;
+    if (this.count === 5) {
+      this.incrementCountEvent.emit(this.count);
+    }
+  }
+}
+```
+
+父組件註冊子組件的事件，程式碼如下所示：
+
+```ts
+@Component({
+  template: `
+    <p>Cat total count: {{ count }}</p>
+    <app-cat (incrementCountEvent)="addCatCount($event)" />
+  `
+})
+class GardenComponent {
+  count = 0;
+
+  addCatCount(count: number) {
+    this.count = count;    
+  }
+}
+```

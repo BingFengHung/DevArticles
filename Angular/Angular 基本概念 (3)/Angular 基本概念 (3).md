@@ -148,9 +148,9 @@ export class AppComponent {
 ```
 裡面幾個重點，form 要有 **[formGroup]** 指令，然後要指向類別的 profileForm 屬性，其他的 formControlName 要對應到 profileForm 裡面的屬性名稱。
 
-> **<form [formGroup]="profileForm">**  
-> **<input type="text" formControlName="name" />**  
-> **<input type="email" formControlName="email" />**  
+> **`<form [formGroup]="profileForm">`**  
+> **`<input type="text" formControlName="name" />`**  
+> **`<input type="email" formControlName="email" />`**  
 
 ### 存取 formGroup 上面的值
 這邊有一個重要的一點，要存取 FormGroup 裡面的屬性，要記得要多加上 .value 才能繼續讀存取屬性值，程式碼如下所示：

@@ -5,6 +5,8 @@
 
 紀錄由 Angular 18 官方文件裡面提到的一些基本概念。
 
+本篇主要介紹，針對資料載入需要比較久的組件，可以用組件延遲的功能，延遲組件載入、圖像優化以及 SPA 路由的設定與控制。
+
 [Angular 18](https://angular.dev)
 
 ## 組件延遲載入 - @defer
@@ -240,3 +242,9 @@ export class AppComponent {}
 
 可以發現在做頁面切換時，不會有閃爍的問題。
 
+## 系列文章
+[Angular 基本概念](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+
+[Angular 基本概念 (2)](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(2))
+
+[Angular 基本概念 (3)](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(3))

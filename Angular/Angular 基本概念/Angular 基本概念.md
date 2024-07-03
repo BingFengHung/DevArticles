@@ -6,6 +6,8 @@
 
 [Angular 18](https://angular.dev)
 
+本篇主要介紹 Angualr 組件的一些基本語法，包含組件的架構、組件屬性的顯示、組件事件處裡與組件與組件之間的溝通等。
+
 ## Angular 組件基本架構
 
 ```ts
@@ -383,6 +385,9 @@ export class AppComponent {
 }
 ```
 
+## 系列文章
+[Angular 基本概念](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
 
-## 下一篇
 [Angular 基本概念 (2)](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(2))
+
+[Angular 基本概念 (3)](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(3))

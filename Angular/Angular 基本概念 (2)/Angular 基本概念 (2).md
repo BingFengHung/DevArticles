@@ -201,6 +201,7 @@ export const routes: Routes = [
 
 2. 新增 title 屬性
 Angular 允許你為每個路由中的組件，定義 title 屬性，這樣在切換路由時，就能顯示指定的頁面標題。
+
 ```ts
 import {Routes} from '@angular/router';
 import {HomeComponent} from './home/home.component';
@@ -214,7 +215,7 @@ export const routes: Routes = [
 ```
 
 ## 使用 RouterLink
-在前一段使用 <a href='/'> 這種方式畫面會有一個明顯的閃爍，這是因為每次在點選路由的時候，組件都要在重新下載比較沒有效率，使用 RouterLink 可以有效解決此問題。
+在前一段使用 **<a href='/'>** 這種方式畫面會有一個明顯的閃爍，這是因為每次在點選路由的時候，組件都要在重新下載比較沒有效率，使用 RouterLink 可以有效解決此問題。
 
 1. 組件中引入 RouterLink
 在 app.component.ts 組件中引入 RouterLink，並把 a 標籤中的 href 替換成 routerLink

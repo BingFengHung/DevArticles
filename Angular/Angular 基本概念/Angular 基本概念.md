@@ -382,3 +382,7 @@ export class AppComponent {
   }
 }
 ```
+
+
+## 下一篇
+[Angular 基本概念 (2)](https://bingfenghung.github.io/blog/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(2))

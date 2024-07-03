@@ -185,8 +185,8 @@ import {Component} from '@angular/core';
   selector: 'app-root',
   template: `
     <section (mouseover)="onMouseOver()"
-      (mouseleave)="onMouseLeave()">
-      There's a secret message for you, hover to reveal 👀
+             (mouseleave)="onMouseLeave()">
+      Hover to 👀
       {{ message }}
     </section>
   `,
@@ -199,7 +199,7 @@ export class AppComponent {
     this.message = 'Hi';
   }
 
-  onMouseOver() {
+  onMouseLeave() {
     this.message = '';
   }
 }

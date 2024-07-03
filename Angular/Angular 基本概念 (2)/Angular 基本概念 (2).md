@@ -215,7 +215,7 @@ export const routes: Routes = [
 ```
 
 ## 使用 RouterLink
-在前一段使用 **<a href='/'>** 這種方式畫面會有一個明顯的閃爍，這是因為每次在點選路由的時候，組件都要在重新下載比較沒有效率，使用 RouterLink 可以有效解決此問題。
+在前一段使用 `<a href='/'>` 這種方式畫面會有一個明顯的閃爍，這是因為每次在點選路由的時候，組件都要在重新下載比較沒有效率，使用 RouterLink 可以有效解決此問題。
 
 1. 組件中引入 RouterLink
 在 app.component.ts 組件中引入 RouterLink，並把 a 標籤中的 href 替換成 routerLink

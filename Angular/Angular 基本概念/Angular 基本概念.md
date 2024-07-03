@@ -329,3 +329,56 @@ class GardenComponent {
   }
 }
 ```
+
+完整程式碼如下所示：
+
+子組件定義
+```ts
+import { Component, Output, EventEmitter } from '@angular/core';
+
+@Component({
+  selector: 'app-cat',
+  template: `
+    <p>Currnet cat id: {{ count }}</p>
+    <button (click)="onClick()">Add Cat count</button>
+  `,
+  standalone: true,
+})
+export class UserComponent {
+  count = 0;
+
+  @Output() incrementCountEvent= new EventEmitter<number>();
+  
+  onClick() {
+    this.count++;
+    if (this.count === 5) {
+      this.incrementCountEvent.emit(this.count);
+    }
+  }
+
+}
+
+```
+
+父組件定義
+```ts
+import { Component } from '@angular/core';
+import { CatComponent } from './cat.component';
+
+@Component({
+  selector: 'app-root',
+  template: `
+    <p>Cat total count: {{ count }}</p>
+    <app-cat (incrementCountEvent)="addCatCount($event)" />
+  `,
+  standalone: true,
+  imports: [CatComponent],
+})
+export class AppComponent {
+  count = 0;
+
+  addCatCount(count: number) {
+    this.count = count;    
+  }
+}
+```

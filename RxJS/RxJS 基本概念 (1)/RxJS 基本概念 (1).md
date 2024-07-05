@@ -99,8 +99,6 @@ fromEvent(document, 'click')
 ## 結論
 目前體驗下來，覺得 RxJS 的好處是避免副作用以及裡面有預設一些常用的方法，讓自己不用再手動刻。
 
-> [!TIP]
-> TIPS
 💡 可觀察物件.訂閱物件(觀察者)
 
 ## 參考資料
@@ -108,7 +106,7 @@ fromEvent(document, 'click')
 
 [Rxjs 學習筆記-Medium](https://medium.com/@chen090/rxjs-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-1acbc04e25d0)
 
-# 🚀 RxJS 系列文章
+## 🚀 RxJS 系列文章
 [RxJS 基本概念 (1) - 概觀](https://bingfenghung.github.io/blog/articles/RxJS%3C_%3E%3ERxJS%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(1))
 
 [RxJS 基本概念 (2) - Observables](https://bingfenghung.github.io/blog/articles/RxJS%3C_%3E%3ERxJS%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(2))

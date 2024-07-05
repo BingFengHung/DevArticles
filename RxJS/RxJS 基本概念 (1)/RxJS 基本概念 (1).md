@@ -26,13 +26,14 @@ Reactive X 使用了 **Observer pattern**、**Iterator pattern**、**Functional 
 - Functional Programming：一種程式編程範式，主要的概念是純函式、無副作用、第一公民函式，這種範式強調不可變數據結構和聲明式編程。
 
 ## First Examples
-一般註冊元素事件註冊方式如下：
+傳統要註冊元素事件，註冊方式如下：
 
 ```js
 document.addEventListener('click', () => console.log('Hi'));
 ```
 
-使用 RxJS，把事件變成可觀察物件 (Observable)
+<hr>
+使用 RxJS 的話，可以把事件變成可觀察物件 (Observable)
 
 ```js
 import { fromEvent } from 'rxjs';
@@ -42,12 +43,16 @@ fromEvent(document, 'click').subscribe(() => console.log('Hi'));
 ## Purity  
 RxJS 使用純函式的方式產生值。
 
-以之前的做法，有可能會建立出一個不純的函式，會導致一些副作用
+以往撰寫程式的時候，或多或少都有可能會建立出一個不純的函式，導致一些副作用的發生，如下程式碼所示：
 
 ```js
 let count = 0;
 document.addEventListener('click', () => console.log(`Count: ${++count}`))
 ```
+
+在上面程式碼中，如果 count 變數有在其他地方修改，可能會導致程式碼的執行與你預期的不一樣，這是很嚴重的問題。
+
+<hr>
 
 使用 RxJS，可以確保不會有副作用發生
 

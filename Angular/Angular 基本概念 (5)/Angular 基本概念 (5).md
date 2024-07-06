@@ -83,7 +83,7 @@ export class AppComponent {
 以上就是所有 Angular 基本概念的所有內容了。
 
 ## 系列文章
-[Angular 基本概念 (1)](/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+[Angular 基本概念 (1)](/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(1))
 
 [Angular 基本概念 (2)](/articles/Angular%3C_%3E%3EAngular%20%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%20(2))
 

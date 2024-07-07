@@ -1081,7 +1081,9 @@
       "lastModifyDate": "2024-07-03",
       "tags": [
         "Angular"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
     }, 
     {
       "title": "Angular 基本概念 (2)",
@@ -1089,7 +1091,9 @@
       "lastModifyDate": "2024-07-03",
       "tags": [
         "Angular"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
     },
     {
       "title": "Angular 基本概念 (3)",
@@ -1097,7 +1101,9 @@
       "lastModifyDate": "2024-07-03",
       "tags": [
         "Angular"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
     },
     {
       "title": "Angular 基本概念 (4)",
@@ -1105,7 +1111,9 @@
       "lastModifyDate": "2024-07-03",
       "tags": [
         "Angular"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
     },
     {
       "title": "Angular 基本概念 (5)",
@@ -1113,7 +1121,9 @@
       "lastModifyDate": "2024-07-03",
       "tags": [
         "Angular"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
     }
   ],
   "RxJS": [

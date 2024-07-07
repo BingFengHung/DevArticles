@@ -1143,7 +1143,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     },
     {
       "title": "RxJS 基本概念 (2)",
@@ -1151,7 +1153,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     },
     {
       "title": "RxJS 基本概念 (3)",
@@ -1159,7 +1163,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     },
     {
       "title": "RxJS 基本概念 (4)",
@@ -1167,7 +1173,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     },
     {
       "title": "RxJS 基本概念 (5)",
@@ -1175,7 +1183,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     },
     {
       "title": "RxJS 基本概念 (6)",
@@ -1183,7 +1193,9 @@
       "lastModifyDate": "2024-07-05",
       "tags": [
         "RxJS"
-      ]
+      ],
+      "isSeries": true,
+      "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     }
   ]
 }

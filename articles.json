@@ -832,6 +832,14 @@
       ]
     },
     {
+      "title": "WPF 如何使用內建的 BooleanToVisibilityConverter",
+      "link": "/WPF/WPF 如何使用內建的 BooleanToVisibilityConverter/WPF 如何使用內建的 BooleanToVisibilityConverter.md",
+      "lastModifyDate": "2021-11-18",
+      "tags": [
+        "WPF"
+      ]
+    },
+    {
       "title": "WPF 為甚麼 DataBinding 屬性進行通知時可以不用跨執行續",
       "link": "/WPF/WPF 為甚麼 DataBinding 屬性進行通知時可以不用跨執行續/WPF 為甚麼 DataBinding 屬性進行通知時可以不用跨執行續.md",
       "lastModifyDate": "2021-12-27",

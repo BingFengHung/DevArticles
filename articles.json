@@ -1030,6 +1030,14 @@
   ],
   "Xamarin.Forms": [
     {
+      "title": "Xamarin.Forms SkiaSharp 使用",
+      "link": "/Xamarin.Forms/Xamarin.Forms SkiaSharp 使用/Xamarin.Forms SkiaSharp 使用.md",
+      "lastModifyDate": "2021-07-29",
+      "tags": [
+        "Xamarin.Forms"
+      ]
+    },
+    {
       "title": "Xamarin Android 編譯路徑過長問題",
       "link": "/Xamarin.Forms/Xamarin Android 編譯路徑過長問題/Xamarin Android 編譯路徑過長問題.md",
       "lastModifyDate": "2021-08-11",

@@ -91,6 +91,14 @@
   ],
   "VisualCode": [
     {
+      "title": "VSCode C# 開發環境建置",
+      "link": "/VisualCode/VSCode C# 開發環境建置/VSCode C# 開發環境建置.md",
+      "lastModifyDate": "2024-07-09",
+      "tags": [
+        "Visual Code"
+      ]
+    },
+    {
       "title": "Visual Code 終端機顯示亂碼問題",
       "link": "/VisualCode/Visual Code 終端機顯示亂碼問題/Visual Code 終端機顯示亂碼問題.md",
       "lastModifyDate": "2024-06-21",

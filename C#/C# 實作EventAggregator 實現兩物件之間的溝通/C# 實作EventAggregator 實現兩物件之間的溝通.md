@@ -25,7 +25,7 @@ class Targets
   public MethodInfo Method { get; set; }
 }
 ```
-
+## EvnetAggregators 建立
 之後就製作 EventAggregators 的類別，建立一個 Dictionary 主要放置 Key 為指定的型別以及 `List<Targets>` 為註冊列表，註冊的型別會當作 Dictionary 的 Key 值，`List<Targets>` 則放置，註冊的物件以及欲註冊的方法，程式碼如下所示：
 
 ```cs
@@ -54,6 +54,8 @@ class EventAggregator
   public void Unsubscribe(object entity) { }
 }
 ```
+
+### 訂閱方法實作
 
 實作訂閱方法，程式碼如下所示：
 
@@ -97,7 +99,7 @@ public void Subscribe(object entity) {
 
 首先根據傳入的物件，找尋是否有實作 IHandle 介面，並找尋此介面中的指定型別，找到型別之後，使用型別的 Name 如 (type.Name) 當作註冊列表的 key 值，之後透過物件找尋指定的方法名稱 HandleEvent ，此方法名稱只可包含一個參數，最後要找尋此物件指定方法的 MethodInfo，進行參數類型的比較，如果相同就暫存 MethodInfo ，然後將傳入的物件與 MethodInfo 加入到字典中，就完成註冊的功能了。
 
-## 取消註冊
+### 取消註冊方法實作
 取消註冊的功能，此功能找尋註冊列表中是否含有指定的物件，如果找到了就將所有的事件進行註銷的動作，程式碼如下所示：
 
 ```cs
@@ -116,7 +118,7 @@ public void Unsubscribe(object entity)
   }
 }
 ```
-## 通知
+### 通知方法實作
 最後是通知的部分，首先找到 message 參數的 type ，透過此 type 的 Name
 找到方法列表，然後就進行方法的呼叫，程式碼如下所示：
 
@@ -135,8 +137,7 @@ public void Publish(object message)
 以上即為所有 EventAggregator 的實作了。
 
 ## 應用方法
-實際應用：Temp 類別繼承 IHandle 介面，並有有不同的型別，string, int
-以及自訂型別 B，實作其各自的 HandleEvent，範例如下圖8、9：
+實際應用：Temp 類別繼承 IHandle 介面，並有有不同的型別，string, int 以及自訂型別 B，實作其各自的 HandleEvent，程式碼如下：
 
 ```cs
 class Temp : IHandle<string>, IHandle<int>, IHandle<B>
@@ -157,8 +158,6 @@ class Temp : IHandle<string>, IHandle<int>, IHandle<B>
   }
 }
 ```
-
-圖8、實際應用
 
 ```cs
 static void Main(string[] args) 

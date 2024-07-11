@@ -1003,7 +1003,7 @@
     },
     {
       "title": "增加 Git Diff 可讀性",
-      "link": "/$Git/增加 Git Diff 可讀性//$i.md",
+      "link": "/Git/增加 Git Diff 可讀性/增加 Git Diff 可讀性.md",
       "lastModifyDate": "2024-07-11",
       "tags": [
         "Git"

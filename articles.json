@@ -1000,6 +1000,14 @@
       "tags": [
         "Git"
       ]
+    },
+    {
+      "title": "增加 Git Diff 可讀性",
+      "link": "/$Git/增加 Git Diff 可讀性//$i.md",
+      "lastModifyDate": "2024-07-11",
+      "tags": [
+        "Git"
+      ]
     }
   ],
   "Visual C++": [
@@ -1118,7 +1126,7 @@
       ],
       "isSeries": true,
       "seriesLink": "/Angular/Angular 基本概念/系列文章.md"
-    }, 
+    },
     {
       "title": "Angular 基本概念 (2)",
       "link": "/Angular/Angular 基本概念/Angular 基本概念 (2)/Angular 基本概念 (2).md",

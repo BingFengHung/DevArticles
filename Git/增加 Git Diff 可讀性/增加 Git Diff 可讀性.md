@@ -174,7 +174,7 @@ ProcessCommand processCommand = new ProcessCommand(Environment.CurrentDirectory)
 processCommand.Command("git", "diff", out string output);
 
 // 儲存到 node 專案底下的 gui 資料夾裡面
-var nodeRootPath = $@"C:\Users\User X\Desktop\0_Env\gitDiff";
+var nodeRootPath = $@"C:\gitDiff";
 
 // 儲存檔案
 File.WriteAllText(Path.Combine(nodeRootPath, "gui", "diff.txt"), output);

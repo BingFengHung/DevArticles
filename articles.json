@@ -1261,5 +1261,15 @@
       "isSeries": true,
       "seriesLink": "/RxJS/RxJS 基本概念/系列文章.md"
     }
+  ],
+  "AI": [
+    {
+      "title": "",
+      "link": "/AI/.md",
+      "lastModifyDate": "2024-07-27",
+      "tags": [
+        "AI"
+      ]
+    }
   ]
 }

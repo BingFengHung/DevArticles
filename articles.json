@@ -1264,8 +1264,8 @@
   ],
   "AI": [
     {
-      "title": "",
-      "link": "/AI/.md",
+      "title": "LM Studio + AnythingLLM 建立 RAG 本地",
+      "link": "/AI/LM Studio + AnythingLLM 建立 RAG 本地/LM Studio + AnythingLLM 建立 RAG 本地.md",
       "lastModifyDate": "2024-07-27",
       "tags": [
         "AI"

@@ -1,4 +1,12 @@
 {
+  "MySQL": [
+    {
+      "title": "MySQL 設定事件自動清理超過指定時間的資料",
+      "link": "/MySQL/MySQL 設定事件自動清理超過指定時間的資料/MySQL 設定事件自動清理超過指定時間的資料.md",
+      "lastModifyDate": "2024-07-31",
+      "tags": ["MySQL"]
+    }
+  ],
   "Docker": [
     {
       "title": "Docker 基本概念 (1)",

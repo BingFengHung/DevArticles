@@ -13,10 +13,23 @@ MySQL 的事件排程器，可以在指定的時間內，執行指定的指令�
 SHOW VARIABLES LIKE 'event_scheduler';
 ```
 
+### 啟動 MySQL Event Scheduler
+```bash
+SET GLOBAL event_scheduler = ON;
+```
+
+**永久啟動 EVENT SCHEDULER**
+
+在 my.ini 中加入以下字串
+```bash
+[mysqld]
+event_scheduler=ON
+```
+
 ### 顯示目前伺服器設定的事件
 
 ```bash
-SHOW EVENTS;
+SHOW EVENTS
 ```
 
 ### 刪除伺服器上面指定的事件
@@ -32,7 +45,7 @@ CREATE EVENT delete_records
 ON SCHEDULE EVERY 1 DAY
 STARTS (TIMESTAMP(CURRENT_DATE, '13:30:00'))
 DO
-DELETE FROM table WHERE 
+DELETE FROM table WHERE CONCAT(Date, ' ', Time) < NOW() - INTERVAL 30 DAY;
 ```
 
 上面的語法相當的簡單，可以根據自身需求進行調整。

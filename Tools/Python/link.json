@@ -6,5 +6,9 @@
   {
     "title": "pyinstaller 建立執行檔",
     "link": "pyinstaller.md"
+  },
+  {
+     "title": "requirements 檔案",
+     "link": "requirements.md"
   }
 ]

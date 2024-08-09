@@ -53,5 +53,10 @@
     "title": "Windows",
     "url": "Windows",
     "link": "https://bingfenghung/github.io/DevArticles/Tools/Windows/link.json"
+  },
+  "Python": {
+    "title": "Python",
+    "url": "Python",
+    "link": "https://bingfenghung/github.io/DevArticles/Tools/Python/link.json"
   }
 }

@@ -1,4 +1,12 @@
 {
+  "Qt": [
+    {
+      "title": "Qt 安裝步驟",
+      "link": "/Qt/Qt 安裝步驟/Qt 安裝步驟.md",
+      "lastModifyDate": "2024-08-29",
+      "tags": ["Qt"]
+    }
+  ],
   "MySQL": [
     {
       "title": "MySQL 設定事件自動清理超過指定時間的資料",
